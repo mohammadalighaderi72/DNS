@@ -1,0 +1,9 @@
+C:\Users\Ghaderi\source\repos\DNS_Set\DNS_Set\bin\Debug\DNS_Set.exe
+C:\Users\Ghaderi\source\repos\DNS_Set\DNS_Set\bin\Debug\DNS_Set.pdb
+C:\Users\Ghaderi\source\repos\DNS_Set\DNS_Set\obj\Debug\DNS_Set.csprojAssemblyReference.cache
+C:\Users\Ghaderi\source\repos\DNS_Set\DNS_Set\obj\Debug\DNS_Set.FrmDNS.resources
+C:\Users\Ghaderi\source\repos\DNS_Set\DNS_Set\obj\Debug\DNS_Set.Properties.Resources.resources
+C:\Users\Ghaderi\source\repos\DNS_Set\DNS_Set\obj\Debug\DNS_Set.csproj.GenerateResource.cache
+C:\Users\Ghaderi\source\repos\DNS_Set\DNS_Set\obj\Debug\DNS_Set.csproj.CoreCompileInputs.cache
+C:\Users\Ghaderi\source\repos\DNS_Set\DNS_Set\obj\Debug\DNS_Set.exe
+C:\Users\Ghaderi\source\repos\DNS_Set\DNS_Set\obj\Debug\DNS_Set.pdb
