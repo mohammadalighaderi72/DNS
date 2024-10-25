@@ -1,0 +1,1 @@
+This is a simple but complete project for configuring DNS related to network interfaces defined in Windows, designed in Visual Studio 2019 environment and C# language. To run the program, you need to run it with Administrator permission.
